@@ -1,0 +1,59 @@
+body {
+  background: #28b48b repeat-x 0 0;
+  background-image: url("http://heygonow.com/wp-content/uploads/2018/03/canvas.png");
+  font-family: 'Museo-slab', sans-serif;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  background-size: cover;
+  padding-top: 120px;
+  box-sizing: border-box;
+  -webkit-animation: slide 180s linear infinite;
+}
+
+@-webkit-keyframes slide {
+    from { background-position: 4570 0; }
+    to { background-position: -4570px 0; }
+}
+
+img {
+  padding-top: 10%;
+  padding-bottom: 3%;
+  width: 100%;
+  min-width: 200px;
+  margin: auto;
+}
+.desc h2 {
+  font-weight: 700;
+  margin: auto;
+}
+
+form {
+  margin: auto;
+  height: 100%;
+}
+
+.signup p {
+  font-weight: 500!important;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.btn-group {
+  height: 100%;
+  margin: auto;
+	color: red;
+}
+
+.info {
+  height: 34px;
+}
+/* input[type="email"] { */
+
+button {
+  color: #fff;
+  background-color: #000;
+  border: none;
+  /* width: 100px!important; */
+  font-weight: 700!important;
+}
