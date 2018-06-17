@@ -11,8 +11,6 @@ The subscription form uses a specific API key. For a tutorial to connect your fo
 ###### Libraries
 This website uses both the minified versions of Bootstrap 3.3.7 for responsiveness and jQuery 3.3.1. Using Bootstrap 4 may affect the site. 
 
-## Contributions
-Designs were created by graphic designer Cody Fenske. Hire him here: http://codyfenskedesign.co/.
-
 ## Credits
 GoNow is founded by Collin Wyler.
+Designs were created by graphic designer Cody Fenske. Hire him here: http://codyfenskedesign.co/.
