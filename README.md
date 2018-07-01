@@ -3,6 +3,9 @@ GoNow's first splash page to collect subscription emails and send it to Google S
 Website: https://heygonow.com/
 Facebook: https://www.facebook.com/heygonow/
 
+![Screenshot 1](GoNow/pic1.JPG?raw=true "Screenshot 1")
+
+
 ## Get Started
 
 ###### API
